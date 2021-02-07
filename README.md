@@ -2,7 +2,7 @@
 Japanese Kana Text Conversion Processing Tool  by. xgtcc &amp;&amp; swsub
 xgtcc
 是一款日语假名文本处理工具，可将全半角混排的日语假名文本统一转化为半角字符，基于opencc项目，由SWSUB即SW字幕组负责字典编译及维护。
-特向OPENCC项目组致谢。
+特向OPENCC项目组https://github.com/BYVoid/OpenCC 致谢。
 xgtcc还使用了不知名作者制作的bat转exe工具。
 # 使用方法
 1. 解压
