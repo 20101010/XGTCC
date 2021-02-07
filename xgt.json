@@ -1,0 +1,19 @@
+{
+  "name": "小工藤日语假名全角化处理引擎",
+  "segmentation": {
+    "type": "mmseg",
+    "dict": {
+      "type": "ocd2",
+      "file": "XGTPhrases.ocd2"
+    }
+  },
+  "conversion_chain": [{
+    "dict": {
+      "type": "group",
+      "dicts": [{
+        "type": "ocd2",
+        "file": "XGTPhrases.ocd2"
+      }]
+    }
+  }]
+}
