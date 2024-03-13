@@ -1,5 +1,21 @@
- 该项目不是开源的，但完全支持并允许在书面通知后进行反编译及二次汇编
- 本项目原则上不允许其他字幕组无限制使用，其他字幕组如需使用本项目请在显著位置注明XGTCC或SW字幕组(SWSUB)字样
+                    XGTCC GENERAL PUBLIC LICENSE
+                       Version 1, 29 June 2020
 
- This project is not open source, but fully supports and allows decompilation and reassembly after written notice.
- In principle, this project does not allow other subtitle groups to use it without restrictions. If other subtitle groups need to use this project, please indicate XGTCC or SWSUB (SW字幕组).
+ Copyright (C) 2020 XGTCC.
+ 任何人都可以复制和分发本许可文档的副本，但不允许修改。
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            简体中文
+
+ 该项目不是开源的，但完全支持并允许在书面通知后进行反编译及二次汇编
+ 本项目原则上不允许其他字幕组无限制使用，其他字幕组如需使用本项目请
+ 在显著位置注明XGTCC或SW字幕组(SWSUB)字样
+
+                            English
+
+ This project is not open source, but fully supports and allows 
+ decompilation and reassembly after written notice.
+ In principle, this project does not allow other subtitle groups 
+ to use it without restrictions. If other subtitle groups need to 
+ use this project, please indicate XGTCC or SWSUB (SW字幕组).
